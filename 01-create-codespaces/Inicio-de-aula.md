@@ -22,7 +22,7 @@ Execute os passos abaixo no inicio de cada aula:
 
 
 3. Acesse o seu codespaces, para isso acesse o link [Github Codespaces](https://github.com/codespaces)
-4. Clique no nome do Codespaces que você criou para as aulas, ele esta derivado do repositório FIAP-Autoglass-Serverless. 
+4. Clique no nome do Codespaces que você criou para as aulas, ele esta derivado do repositório fiap-arquitetura-compute-e-storage. 
 
     ![](img/codespacess11.png)
 
